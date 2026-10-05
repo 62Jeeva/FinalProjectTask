@@ -1,0 +1,71 @@
+Event dropdown options
+-- Select --
+Accommodation
+No of fields: 2
+0 : Accommodation
+1 : -- Select --
+Currency dropdown options
+-- Select --
+Afghanistan Afghani
+Albanian Lek
+Algerian Dinar
+Angolan New Kwanza
+Argentina Pesos
+Argentine Peso
+Aruban Florin
+Australian Dollar
+Bahamian Dollar
+Bahraini Dinar
+Bangladeshi Taka
+Barbados Dollar
+Belize Dollar
+Bermudian Dollar
+Bhutan Ngultrum
+Bolivian Boliviano
+Botswana Pula
+Brazilian Real
+Brunei Dollar
+Bulgarian Lev
+Burundi Franc
+Canadian Dollar
+Cape Verde Escudo
+Cayman Islands Dollar
+CFA Franc BCEAO
+CFA Franc BEAC
+CFP Franc
+Chilean Peso
+Chinese Yuan Renminbi
+Colombian Peso
+Comoros Franc
+Costa Rican Colon
+Croatian Kuna
+Cuban Peso
+Cyprus Pound
+Czech Koruna
+Danish Krona
+Djibouti Franc
+Dominican Peso
+Eastern Caribbean Dollars
+Ecuador Sucre
+Egyptian Pound
+El Salvador Colon
+Estonian Krona
+Ethiopian Birr
+Euro
+Falkland Islands Pound
+Fiji Dollar
+Gambian Dalasi
+Ghanaian Cedi
+Gibraltar Pound
+Gold (oz.)
+Guatemalan Quetzal
+Guinea Franc
+Guyanan Dollar
+Haitian Gourde
+Honduran Lempira
+Hong Kong Dollar
+Hungarian Forint
+Iceland Krona
+IMF Special Drawing Right
+Indian Rupee
+Claim has been initiated

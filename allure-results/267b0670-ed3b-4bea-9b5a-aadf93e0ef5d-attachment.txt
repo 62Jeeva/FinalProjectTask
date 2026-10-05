@@ -1,0 +1,11 @@
+
+EXCEL DATA:
+{'SI.NO': 1, 'TEST ID': 'Guvi-02', 'Name of Tester': 'Administrator', 'Date': datetime.datetime(2023, 1, 8, 0, 0), 'Test Paramter': 'Login Test with username and password', 'Username': 'Admin', 'Password': 'admin123', 'Expected Result': 'Valid'}
+{'SI.NO': 2, 'TEST ID': 'Guvi-03', 'Name of Tester': 'Venkat', 'Date': datetime.datetime(2023, 1, 8, 0, 0), 'Test Paramter': 'Login Test with username and password', 'Username': 'manager@guvi.in', 'Password': 'password@123', 'Expected Result': 'Invalid'}
+{'SI.NO': 3, 'TEST ID': 'Guvi-04', 'Name of Tester': 'Suman Gangopadhyay', 'Date': datetime.datetime(2023, 1, 8, 0, 0), 'Test Paramter': 'Login Test with username and password', 'Username': 'suman@guvi.in', 'Password': 'password@123', 'Expected Result': 'Invalid'}
+testing user: Admin | Expected:Valid
+Current url: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+testing user: manager@guvi.in | Expected:Invalid
+Current url: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+testing user: suman@guvi.in | Expected:Invalid
+Current url: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
